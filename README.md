@@ -1,4 +1,4 @@
-link -> https://guilhermeoliveiraleite.github.io/Lista-tarefas/](https://guilhermeoliveiraleite.github.io/lista_cidades_bidu_indaiatuba/
+link -> https://guilhermeoliveiraleite.github.io/lista_cidades_bidu_indaiatuba/
 
 # React + Vite
 
