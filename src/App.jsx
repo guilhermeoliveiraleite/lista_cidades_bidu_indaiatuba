@@ -276,7 +276,6 @@ function App() {
 
           {id:50,
             text: "Indaiatuba",
-            text: "Bar do Zé, Rua Bidu, 13 - Vila Maria",
             category: "Cidade OK",
             isCompleted: false},
 
