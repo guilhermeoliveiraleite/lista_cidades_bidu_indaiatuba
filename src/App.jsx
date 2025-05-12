@@ -276,6 +276,7 @@ function App() {
 
           {id:50,
             text: "Indaiatuba",
+            text: "Bar do Zé, Rua Bidu, 13 - Vila Maria",
             category: "Cidade OK",
             isCompleted: false},
 
@@ -668,7 +669,12 @@ function App() {
           category: "Cidade OK",
           isCompleted: false},
 
-    {id:129,
+          {id:129,
+          text: "Leme",
+          category: "Cidade OK",
+          isCompleted: false},
+
+    {id:130,
         text: "Bom Jesus dos Perdões",
         category: "Cidade OK",
         isCompleted: false,  
