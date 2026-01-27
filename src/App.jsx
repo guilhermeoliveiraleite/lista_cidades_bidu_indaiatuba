@@ -274,9 +274,9 @@ function App() {
           category: "Cidade OK",
           isCompleted: false},
 
-          {id:50,
-            text: "Indaiatuba",
-            category: "Cidade OK",
+           {id:50,
+            text: "Indaiatuba", 
+            category: "Bar do Zé, rua bidu, 13 - vila maria // Restaurante Bidu, rua Bidu, 31 - Centro",
             isCompleted: false},
 
         {id:51,
@@ -668,7 +668,12 @@ function App() {
           category: "Cidade OK",
           isCompleted: false},
 
-    {id:129,
+          {id:129,
+          text: "Leme",
+          category: "Cidade OK",
+          isCompleted: false},
+
+    {id:130,
         text: "Bom Jesus dos Perdões",
         category: "Cidade OK",
         isCompleted: false,  
